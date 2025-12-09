@@ -1,0 +1,1745 @@
+{
+  "version": "1.1",
+  "idols": [
+    {
+      "idol_slug": "hana_haruna",
+      "idol_name": "Hana Haruna",
+      "images": [
+        {
+          "id": 1,
+          "name": "โปรไฟล์อย่างเป็นทางการ – TMDb",
+          "url": "https://image.tmdb.org/t/p/original/1N9MTXqmclTwvk1np6GEmweqNHW.jpg",
+          "alt": "Hana Haruna – TMDb",
+          "description": "ภาพโปรไฟล์ทางการ ใช้ในฐานข้อมูลภาพยนตร์ ใบหน้าชัดเจน สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ร่วมงานอีเวนต์ – Ameba Blog",
+          "url": "https://stat.ameba.jp/user_images/20180719/20/juso-pearl-thirteen/83/d9/j/o0700049414232019160.jpg",
+          "alt": "Hana Haruna – Ameba Event",
+          "description": "ถ่ายในงานอีเวนต์ สวมเสื้อผ้าปกติ สีหน้าเป็นกันเอง เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "โปรไฟล์จาก Generasia",
+          "url": "https://www.generasia.com/w/images/7/7d/haruna_hana.jpg",
+          "alt": "Hana Haruna – Generasia",
+          "description": "ภาพโปรไฟล์เรียบร้อยจากเว็บไซต์ Generasia ใบหน้าคมชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "โปรเจกต์ CAMPFIRE",
+          "url": "https://static-cache.camp-fire.jp/uploads/project_version/image/717442/064204ae-1385-4c45-bae0-0803167bd784.jpg?fit=max",
+          "alt": "Hana Haruna – CAMPFIRE",
+          "description": "ภาพโปรโมทแคมเปญบน CAMPFIRE ลุคสุภาพ เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "สัมภาษณ์กับ Oricon (2010)",
+          "url": "https://contents.oricon.co.jp/upimg/news/20100315/74316_201003150964817001268648607b.jpg",
+          "alt": "Hana Haruna – Oricon Interview",
+          "description": "ขณะให้สัมภาษณ์สื่อ Oricon การแต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "ภาพจากอีเวนต์โดย Oricon News",
+          "url": "https://contents.oricon.co.jp/upimg/news/20100315/74316_201003150006772001268648608c.jpg",
+          "alt": "Hana Haruna – Oricon Event",
+          "description": "ถ่ายในงานอีเวนต์ทางการ ใบหน้าชัดเจน ลุคสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "แฟนมีตติ้ง – LifeTalesGallery",
+          "url": "https://lifetalesgallery.com/wp-content/uploads/2024/12/2-27-1024x576.png",
+          "alt": "Haruna Hana – LifeTalesGallery",
+          "description": "บรรยากาศแฟนมีตติ้ง แต่งกายสุภาพ สีหน้ายิ้มแย้ม (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "โพสต์จาก X – @harunahanadream (A)",
+          "url": "https://pbs.twimg.com/media/GzolFzcaIAEYjCW?format=jpg&name=large",
+          "alt": "Haruna Hana – X Post A",
+          "description": "ภาพโทนอุ่น ใบหน้าชัดเจน โพสต์จากบัญชีทางการ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "โพสต์จาก X – @harunahanadream (B)",
+          "url": "https://pbs.twimg.com/media/Gwf3nVhbAAA9qkj?format=jpg&name=large",
+          "alt": "Haruna Hana – X Post B",
+          "description": "โทนสดใส ให้บรรยากาศเป็นกันเอง เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "โพสต์จาก X – @harunahanadream (C)",
+          "url": "https://pbs.twimg.com/media/Gy_1XkoboAMoj98?format=jpg&name=large",
+          "alt": "Haruna Hana – X Post C",
+          "description": "มุมใกล้ รายละเอียดใบหน้าเด่นชัด โทนสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพพอร์ตเทรตระยะใกล้ในร่ม",
+          "url": "https://j.uuu.cam/fanza/hana-haruna/juy00184/hana-haruna-1.jpg",
+          "alt": "Hana Haruna – Indoor Portrait 11",
+          "description": "ภาพถ่ายในร่ม โฟกัสใบหน้าชัดเจน สีหน้านุ่มนวล แต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพกลางแจ้งโทนสว่าง",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lmjMRwPPM5HjGVll36WSK6BB2Y_JH5au-NpQDtoLMMyNTSSUE9r6NqgN&s=10",
+          "alt": "Hana Haruna – Outdoor Soft 12",
+          "description": "ถ่ายกลางแจ้ง แสงธรรมชาติ ให้ลุคสดใส เห็นหน้าชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพโปรโมทโทนอบอุ่น",
+          "url": "https://pics.dmm.co.jp/digital/video/jul00402/jul00402jp-7.jpg",
+          "alt": "Hana Haruna – Promo Warm 13",
+          "description": "ภาพโปรโมทจัดไฟนุ่มนวล ใบหน้าเด่นชัด แต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพจากสตูดิโอสไตล์คลาสสิก",
+          "url": "https://j.uuu.cam/fanza/hana-haruna/ure00039/hana-haruna-2.jpg",
+          "alt": "Hana Haruna – Studio Classic 14",
+          "description": "โทนภาพคลาสสิก เน้นใบหน้าและแสงเงาอย่างมีมิติ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพพอร์ตเทรตแนวจริงจัง",
+          "url": "https://j.uuu.cam/fanza/hana-haruna/nkkd00207/hana-haruna-13.jpg",
+          "alt": "Hana Haruna – Portrait Serious 15",
+          "description": "สีหน้าเรียบสุขุม มุมถ่ายคมชัด การแต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพครึ่งตัวในสตูดิโอ",
+          "url": "https://j.uuu.cam/fanza/hana-haruna/nkkd00207/hana-haruna-9.jpg",
+          "alt": "Hana Haruna – Studio Half-body 16",
+          "description": "มุมครึ่งตัว ใบหน้าชัดเจน ท่าทางดูผ่อนคลาย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพคู่โปรไฟล์จากโปรเจกต์ร่วม",
+          "url": "https://j.uuu.cam/fanza/hana-haruna-akari-niimura/cemd00116/hana-haruna-akari-niimura-13.jpg",
+          "alt": "Hana Haruna – Duo Portrait 17",
+          "description": "ภาพถ่ายร่วมกับอีกหนึ่งผู้ร่วมโปรเจกต์ ใบหน้าชัดเจน แต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพโปรโมทโทนสดใส",
+          "url": "https://pics.dmm.co.jp/digital/video/soe00514/soe00514jp-5.jpg",
+          "alt": "Hana Haruna – Bright Promo 18",
+          "description": "โทนภาพสว่าง เน้นมุมใบหน้าเด่น และชุดสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตในร่ม – โทนอบอุ่น",
+          "url": "https://j.uuu.cam/fanza/hana-haruna/ure00039/hana-haruna-9.jpg",
+          "alt": "Hana Haruna – Indoor Warm 19",
+          "description": "แสงอุ่น ลุคเรียบร้อย ใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพตัวอย่างจากวิดีโอโปรโมต (SFW Frame)",
+          "url": "https://wh.cdntrex.com/contents/videos_screenshots/260000/260199/preview.mp4.jpg",
+          "alt": "Hana Haruna – Promo Frame 20",
+          "description": "เฟรมภาพที่เห็นใบหน้าชัด มุมตรง แต่งกายสุภาพ ไม่มีเนื้อหาโจ่งแจ้ง (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "julia",
+      "idol_name": "JULIA",
+      "images": [
+        {
+          "id": 1,
+          "name": "โปรไฟล์ Ensemble 2 – X Post 1A",
+          "url": "https://pbs.twimg.com/media/G5d46wZbMAAMdsB?format=jpg&name=orig",
+          "alt": "JULIA – X Post 1A",
+          "description": "ภาพจากประกาศนิทรรศการภาพถ่าย Ensemble 2 (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "โปรไฟล์ Ensemble 2 – X Post 1B",
+          "url": "https://pbs.twimg.com/media/G5d46wbbcAAd-Qo?format=jpg&name=orig",
+          "alt": "JULIA – X Post 1B",
+          "description": "ภาพอีกมุมจากประกาศนิทรรศการภาพถ่าย (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "โปรโมทสินค้า – X Post 2",
+          "url": "https://pbs.twimg.com/media/G4fmB4SbcAAtbB-?format=jpg&name=orig",
+          "alt": "JULIA – X Post 2",
+          "description": "ภาพโปรโมทคาเลนเดอร์พร้อมアクスタ (SFW สวมเสื้อผ้าปกติ)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "Gran Kicona Osaka – X Post 3A",
+          "url": "https://pbs.twimg.com/media/G3wJ9Z2WIAAfJ9S?format=jpg&name=orig",
+          "alt": "JULIA – X Post 3A",
+          "description": "ภาพจากอีเวนต์ที่ร้าน Gran Kicona ในโอซาก้า (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "Gran Kicona Osaka – X Post 3B",
+          "url": "https://pbs.twimg.com/media/G3wJ9Z2XEAAnyA6?format=jpg&name=orig",
+          "alt": "JULIA – X Post 3B",
+          "description": "ภาพอีกมุมจากอีเวนต์โอซาก้า (SFW สวมเสื้อผ้าปกติ)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "Gran Kicona Osaka – X Post 3C",
+          "url": "https://pbs.twimg.com/media/G3wJ9Z2WkAA4Np7?format=jpg&name=orig",
+          "alt": "JULIA – X Post 3C",
+          "description": "ภาพกลุ่มจากอีเวนต์โอซาก้า (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "Gran Kicona Osaka – X Post 3D",
+          "url": "https://pbs.twimg.com/media/G3wJ9ZyXgAAXp2H?format=jpg&name=orig",
+          "alt": "JULIA – X Post 3D",
+          "description": "ภาพใกล้ชิดจากอีเวนต์โอซาก้า (SFW สวมเสื้อผ้าปกติ)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "Trend Bookstore – X Post 4A",
+          "url": "https://pbs.twimg.com/media/G3wInrLWgAEveu5?format=jpg&name=orig",
+          "alt": "JULIA – X Post 4A",
+          "description": "ภาพจากอีเวนต์ที่ Trend Bookstore (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "Trend Bookstore – X Post 4B",
+          "url": "https://pbs.twimg.com/media/G3wInnYWEAA7GpZ?format=jpg&name=orig",
+          "alt": "JULIA – X Post 4B",
+          "description": "ภาพอีกมุมจากอีเวนต์ Trend Bookstore (SFW สวมเสื้อผ้าปกติ)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "Trend Bookstore – X Post 4C",
+          "url": "https://pbs.twimg.com/media/G3wInrZWEAAPtvX?format=jpg&name=orig",
+          "alt": "JULIA – X Post 4C",
+          "description": "ภาพกลุ่มจากอีเวนต์ Trend Bookstore (SFW เห็นใบหน้าชัดเจน)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพโปรไฟล์โทนอบอุ่น – Portrait 11",
+          "url": "https://j.jjj.cam/jav/japanese/julia/51/julia-3.jpg",
+          "alt": "JULIA – Portrait 11",
+          "description": "ภาพพอร์ตเทรตใบหน้าชัดเจน โทนอบอุ่น สวมชุดลำลองสุภาพ (ปรับให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรโมทสตูดิโอ – Studio Still 12",
+          "url": "https://gachinuke.com/wp-content/uploads/2024/03/waaa00254jp-12.jpg",
+          "alt": "JULIA – Studio Still 12",
+          "description": "ภาพโปรโมทจากสตูดิโอถ่ายทำ แต่งกายสุภาพ เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพพอร์ตเทรตในสตูดิโอ – Portrait 13",
+          "url": "https://warashi-asian-pornstars.fr/WAPdB-img/pornostars-f-galeries/26000/26407/large/wapdb-julia-pornostar-asiatique.warashi-asian-pornstars.fr-26407-002.jpg",
+          "alt": "JULIA – Portrait 13",
+          "description": "ภาพแนวพอร์ตเทรต จัดแสงสตูดิโอ ใบหน้าเด่นชัด โทนสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพแฟชั่นโทนขาว – Studio Fashion 14",
+          "url": "https://warashi-asian-pornstars.fr/WAPdB-img/pornostars-f-galeries/49000/49757/large/wapdb-julia-pornostar-asiatique.warashi-asian-pornstars.fr-49757-009.jpg",
+          "alt": "JULIA – Studio Fashion 14",
+          "description": "ภาพสตูดิโอชุดโทนขาว ให้ลุคเรียบง่ายและเห็นใบหน้าอย่างชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพโปรโมทสินค้าภายในสตูดิโอ – Promo Still 15",
+          "url": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/beb00020/beb00020jp-3.jpg",
+          "alt": "JULIA – Promo Still 15",
+          "description": "ภาพโปรโมทในสตูดิโอ เสื้อผ้าเรียบร้อย โฟกัสที่สีหน้าและบุคลิก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพโปรโมทแนวพอร์ตเทรต – Promo Portrait 16",
+          "url": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/beb00020/beb00020jp-5.jpg",
+          "alt": "JULIA – Promo Portrait 16",
+          "description": "พอร์ตเทรตระยะกลาง โทนแสงนุ่ม เน้นบรรยากาศสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพนิตยสาร – Magazine Cut 17",
+          "url": "https://livedoor.blogimg.jp/psychedelicpuppet/imgs/b/2/b29635df.jpg?21e2404b",
+          "alt": "JULIA – Magazine Cut 17",
+          "description": "ภาพสแกนจากสื่อสิ่งพิมพ์ เห็นใบหน้าอย่างชัดเจน โทนเรียบง่าย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพโปรโมทสตูดิโอ – Studio Still 18",
+          "url": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/pppd00361/pppd00361jp-2.jpg",
+          "alt": "JULIA – Studio Still 18",
+          "description": "ภาพโปรโมทจากสตูดิโอในท่าทางสุภาพ โฟกัสใบหน้าเป็นหลัก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพโปรไฟล์โทนเข้ม – Portrait 19",
+          "url": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/hmn00693/hmn00693jp-11.jpg",
+          "alt": "JULIA – Portrait 19",
+          "description": "ภาพพอร์ตเทรตโทนเข้ม ให้ความรู้สึกจริงจัง เห็นใบหน้าเด่นชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพแฟชั่นจากบล็อก – Blog Still 20",
+          "url": "https://blog-imgs-107.fc2.com/e/r/o/erog/JULIA_av_20200613_040s.jpg",
+          "alt": "JULIA – Blog Still 20",
+          "description": "ภาพแฟชั่นลำลองจากบล็อก โทนเป็นกันเอง ใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "natsume_iroha",
+      "idol_name": "Natsume Iroha",
+      "images": [
+        {
+          "id": 1,
+          "name": "ภาพพอร์ตเทรตโปรไฟล์ (SFW)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0os36ITcGlbByfQE4WL_F8dbw0mDzFTvBc19c7BOGKOO848GF7MCxZmE&s=10",
+          "alt": "Natsume Iroha – Portrait SFW",
+          "description": "ภาพพอร์ตเทรตระยะใกล้ ใบหน้าชัดเจน ให้ลุคสุภาพและเป็นมิตร (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "โปรโมท ATID-647 – New Release (X Post)",
+          "url": "https://pbs.twimg.com/media/G4k-ihraYAAi2a0?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 2",
+          "description": "ปกโปรโมทแนวสืบสวน โทนจริงจัง ชุดรัดรูปเล็กน้อยแต่ยังอยู่ในเกณฑ์ SFW",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "ภาพแฟชั่นแนวหวานเรียบง่าย",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5wVRKDq0bqsuxacUHYFzJUA1vxu0W2QNRTAzR7yVbOIy8Eg_zNpjtRiE&s=10",
+          "alt": "Natsume Iroha – 03",
+          "description": "สวมเสื้อคอเต่าโทนอ่อน ลุคสุภาพ เรียบร้อย และดูเข้าถึงง่าย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "โปรโมท RBD-932 – 50% OFF (X Post)",
+          "url": "https://pbs.twimg.com/media/G2QIloTbQAAjkw2?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 4",
+          "description": "ปกผลงานดราม่า ชุดเปิดไหล่นิดหน่อย แต่ยังคงความสุภาพในระดับ SFW",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "โปรโมท ATKD-385 – Autumn Compilation (X Post)",
+          "url": "https://pbs.twimg.com/media/G2P774xb0AA2SGI?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 5",
+          "description": "ปกคอมไพล์ธีมฤดูใบไม้ร่วง ชุดแนบลำตัวเล็กน้อย แต่ไม่มีความโป๊ชัดเจน ใบหน้าคมชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "โปรโมท ADN-472 – Autumn Campaign (X Post)",
+          "url": "https://pbs.twimg.com/media/G2P6q6DbgAEoZuC?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 6",
+          "description": "ชุดแนวเซ็กซี่เล็กน้อยแต่ไม่ล่อแหลม เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "ชุดเดรสชมพูในสตูดิโอ",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/shkd00736/iroha-natsume-12.jpg",
+          "alt": "Natsume Iroha – Pink Dress",
+          "description": "เดรสชมพูหวานในสตูดิโอ ชุดแนบลำตัวเล็กน้อยแต่ไม่โป๊ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "โปรโมท ADN-286 – 50% OFF (X Post)",
+          "url": "https://pbs.twimg.com/media/G2QA7VJbEAAb5qj?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 8",
+          "description": "ปกดราม่า ชุดเปิดไหล่นิดหน่อย ลุคสุภาพในระดับ SFW",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "โปรโมท ADN-131 – 50% OFF (X Post)",
+          "url": "https://pbs.twimg.com/media/G2QA3CFbQAAOS4n?format=jpg&name=orig",
+          "alt": "Natsume Iroha – X Post 9",
+          "description": "ชุดแนบเนื้อโทนอ่อน แต่ไม่เห็นรายละเอียดล่อแหลม (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "เซลฟี่ใบหน้าเต็มเฟรม (SFW)",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00143/iroha-natsume-12.jpg",
+          "alt": "Natsume Iroha – Selfie Clear",
+          "description": "เซลฟี่โทนชมพู ใบหน้าชัดเจน ท่าทางเป็นธรรมชาติ ไม่โป๊ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพพอร์ตเทรตกลางแจ้งโทนอบอุ่น",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_bus3NKMH9xwGAmDl3FQNfbfsKA1UzX4XfKbLFFGKg&s=10",
+          "alt": "Natsume Iroha – Outdoor Portrait",
+          "description": "ถ่ายกลางแจ้ง แสงธรรมชาติ ใบหน้าชัด เห็นลุคสุภาพและเป็นกันเอง",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพสตูดิโอโทนเรียบง่าย ใบหน้าชัดเจน",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/rbd00932/iroha-natsume-5.jpg",
+          "alt": "Natsume Iroha – Studio Soft",
+          "description": "ถ่ายในสตูดิโอ ชุดโทนสุภาพ ลุคจริงจังเล็กน้อย อยู่ในเกณฑ์ SFW",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพแฟชั่นในร่ม – โทนอบอุ่น",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00212/iroha-natsume-2.jpg",
+          "alt": "Natsume Iroha – Indoor Warm",
+          "description": "แสงนุ่มนวล เน้นใบหน้าเด่นชัด การแต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพสตูดิโอโปรไฟล์ – โทนขาวคลีน",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00387/iroha-natsume-7.jpg",
+          "alt": "Natsume Iroha – Studio Clean",
+          "description": "พื้นหลังขาวล้วน เน้นใบหน้าและท่าทางสุขุม เป็นภาพโปรไฟล์แนว SFW",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพพอร์ตเทรตแนวใกล้ชิด (Close-up)",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00116/iroha-natsume-1.jpg",
+          "alt": "Natsume Iroha – Close-up Portrait",
+          "description": "ใบหน้าเด่นชัด โฟกัสดี ให้ลุคอบอุ่น ไม่โป๊ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพใส่ชุดโทนเข้มในมุมสบาย ๆ",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXZOmOHewIadmrZ3FG6k7taBdx5xnlbOMcOlK-3hF-zV2cSPziq9EEsk&s=10",
+          "alt": "Natsume Iroha – Casual Dark Tone",
+          "description": "ชุดเรียบร้อยโทนเข้ม มุมถ่ายสบาย ๆ ใบหน้าเห็นชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรไฟล์ครึ่งตัวในสตูดิโอ",
+          "url": "https://cdn-1.ggjav.com/media/preview/265861_5.jpg",
+          "alt": "Natsume Iroha – Half-body Studio",
+          "description": "ครึ่งตัวในสตูดิโอ แต่งกายสุภาพ โฟกัสใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพแฟชั่นโทนอบอุ่น เห็นใบหน้าชัด",
+          "url": "https://pics.dmm.co.jp/digital/video/adn00556/adn00556jp-6.jpg",
+          "alt": "Natsume Iroha – Warm Fashion",
+          "description": "ภาพโปรโมทโทนอบอุ่น การแต่งกายสุภาพ อยู่ในเกณฑ์ SFW",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตในร่ม – โทนนุ่มนวล",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00372/iroha-natsume-2.jpg",
+          "alt": "Natsume Iroha – Indoor Soft Portrait",
+          "description": "ใบหน้าชัดเจน แสงนุ่ม ให้ลุคสงบและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพสตูดิโอท่าทางสบาย ๆ",
+          "url": "https://j.uuu.cam/fanza/iroha-natsume/adn00299/iroha-natsume-4.jpg",
+          "alt": "Natsume Iroha – Studio Casual",
+          "description": "ถ่ายในสตูดิโอ มุม casual เห็นใบหน้าชัด แต่งกายเรียบร้อย (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "rei_kamiki",
+      "idol_name": "Rei Kamiki",
+      "images": [
+        {
+          "id": 1,
+          "name": "โปรโมท写真集 – X Post 1",
+          "url": "https://pbs.twimg.com/media/G5YP-YPbgAAif2f?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 1",
+          "description": "ภาพโปรโมท写真集 โฟกัสใบหน้าและโทนภาพอ่อนโยน (ปรับให้เป็น SFW โดยตัดรายละเอียดล่อแหลม)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "อีเวนต์写真集 – X Post 2A",
+          "url": "https://pbs.twimg.com/media/G5TqJqOa8AAn1aS?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 2A",
+          "description": "ภาพจากอีเวนต์เปิดตัว写真集 แต่งกายสุภาพ เห็นใบหน้าชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "อีเวนต์写真集 – X Post 2B",
+          "url": "https://pbs.twimg.com/media/G5TqJqNbwAAETT9?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 2B",
+          "description": "อีกมุมจากงานอีเวนต์ โฟกัสใบหน้าและท่าทางสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "Oharei Morning Post – X Post 3",
+          "url": "https://pbs.twimg.com/media/G5L6hYnbYAA93DI?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 3",
+          "description": "ภาพโพสต์ทักทายตอนเช้าในโทนอบอุ่น สวมชุดลำลองสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "โปรโมทผลงาน START-443 – X Post 4",
+          "url": "https://pbs.twimg.com/media/G48XsBzbcAAtH7v?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 4",
+          "description": "ภาพโปรโมทผลงานใหม่ โฟกัสใบหน้า บรรยากาศจริงจัง (ปรับให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "Oharei – Blue Greeting Post – X Post 5",
+          "url": "https://pbs.twimg.com/media/G43OGgkbcAAX1xg?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 5",
+          "description": "ภาพทักทายตอนเช้าชุดโทนสีน้ำเงิน เห็นใบหน้าชัดเจน ลุคเป็นกันเอง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "Oharei – Morning Greeting – X Post 6",
+          "url": "https://pbs.twimg.com/media/G4sz82ZbYAAZoOr?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 6",
+          "description": "ภาพโพสต์ทักทายช่วงเช้า เน้นโทนสดใส ใบหน้าเด่นชัด (ปรับคำอธิบายให้ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "อีเวนต์ฮัลโลวีน – X Post 7A",
+          "url": "https://pbs.twimg.com/media/G4qXEbnbcAAaCJR?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 7A",
+          "description": "ภาพจากอีเวนต์ฮัลโลวีนในชุดคอสเพลย์สุภาพ เห็นใบหน้าและรอยยิ้มชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "อีเวนต์ฮัลโลวีน – X Post 7B",
+          "url": "https://pbs.twimg.com/media/G4qXEbLaQAAeoXZ?format=jpg&name=orig",
+          "alt": "Rei Kamiki – X Post 7B",
+          "description": "มุมเพิ่มเติมจากงานฮัลโลวีน โทนเป็นกันเอง เน้นใบหน้า (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "โปรโมทสตูดิโอ – Studio Still 10",
+          "url": "https://pics.dmm.co.jp/digital/video/1start070/1start070jp-2.jpg",
+          "alt": "Rei Kamiki – Studio Still 10",
+          "description": "ภาพโปรโมทจากสตูดิโอ ใบหน้าชัดเจน โทนภาพเป็นทางการ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพพอร์ตเทรต – Portrait 11",
+          "url": "https://pics.dmm.co.jp/digital/video/1start436/1start436jp-10.jpg",
+          "alt": "Rei Kamiki – Portrait 11",
+          "description": "ภาพพอร์ตเทรตในสตูดิโอ เน้นสีหน้าอ่อนโยนและท่าทางสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรไฟล์กลางแจ้ง – Outdoor Profile 12",
+          "url": "https://pics.javhd.today/videos/tmb/000/218/649/1.jpg",
+          "alt": "Rei Kamiki – Outdoor 12",
+          "description": "ภาพกลางแจ้งโทนสว่าง เห็นใบหน้าเด่นชัด ให้ความรู้สึกเป็นธรรมชาติ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพแฟชั่นในสตูดิโอ – Studio Fashion 13",
+          "url": "https://cdn-1.ggjav.com/media/preview/229822_4.jpg",
+          "alt": "Rei Kamiki – Fashion 13",
+          "description": "ภาพแฟชั่นจัดแสงในสตูดิโอ เน้นใบหน้าและท่าทางเรียบร้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพโปรโมทสินค้า – Promo Still 14",
+          "url": "https://pics.dmm.co.jp/digital/video/1stars00818/1stars00818jp-13.jpg",
+          "alt": "Rei Kamiki – Promo 14",
+          "description": "ภาพโปรโมทโทนอ่อน ชุดสุภาพ เห็นสีหน้าเด่นชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพพอร์ตเทรตโทนอบอุ่น – Portrait 15",
+          "url": "https://pics.dmm.co.jp/digital/video/1stars866/1stars866jp-7.jpg",
+          "alt": "Rei Kamiki – Portrait 15",
+          "description": "พอร์ตเทรตโทนอบอุ่น เห็นใบหน้าและแววตาชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพแฟชั่นในสตูดิโอ – Studio Look 16",
+          "url": "https://pics.dmm.co.jp/digital/video/1stars923/1stars923jp-6.jpg",
+          "alt": "Rei Kamiki – Studio Look 16",
+          "description": "ภาพแฟชั่นในสตูดิโอ เน้นโครงหน้าและท่าทางสุขุม (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพความละเอียดสูง – Portrait 17",
+          "url": "https://imggen.eporner.com/11803422/3840/2160/2.jpg",
+          "alt": "Rei Kamiki – High-Res Portrait 17",
+          "description": "ภาพใบหน้าชัดระดับสูง โทนจริงจัง ให้ความรู้สึกมืออาชีพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพโปรไฟล์ – Profile Still 18",
+          "url": "https://en.avjoy.me/media/avjoytmb/tmb/32144/default.jpg",
+          "alt": "Rei Kamiki – Profile 18",
+          "description": "ภาพโปรไฟล์จากสื่อออนไลน์ ใบหน้าเด่นชัด โทนกลางๆ สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตโทนเข้ม – Dark Portrait 19",
+          "url": "https://imggen.eporner.com/14590099/3840/2160/10.jpg",
+          "alt": "Rei Kamiki – Dark Portrait 19",
+          "description": "พอร์ตเทรตโทนเข้ม เน้นความคมชัดของใบหน้าและแสงเงา (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรไฟล์ – Profile Still 20",
+          "url": "https://pstictic.com/contents/videos_screenshots/298000/298512/preview.mp4.jpg",
+          "alt": "Rei Kamiki – Profile 20",
+          "description": "ภาพโปรไฟล์ จัดทำเป็นเอนทรีแยกตามลำดับเลขที่ผู้ใช้กำหนด (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "anri_okita",
+      "idol_name": "Anri Okita",
+      "images": [
+        {
+          "id": 1,
+          "name": "โพสต์ลำลองในห้อง – X Post 1",
+          "url": "https://pbs.twimg.com/media/GoyxV7DaEAA4BA1?format=jpg&name=medium",
+          "alt": "Anri Okita – X Post 1",
+          "description": "ภาพเซลฟีในห้องโทนอุ่น สวมชุดลำลองสบาย ๆ เห็นใบหน้าชัดเจนและบรรยากาศเป็นกันเอง (ปรับคำบรรยายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ฮัลโลวีนโปรโมท – Trick or Treat",
+          "url": "https://pbs.twimg.com/media/G4japlUbAAAPgyA?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 2",
+          "description": "ภาพฮัลโลวีนในชุดแม่มดโทนเข้ม ใส่หมวกและชุดธีมเทศกาล เน้นรอยยิ้มและบรรยากาศสนุกสนาน (ปรับคำอธิบายให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "ฮัลโลวีน – Happy Halloween",
+          "url": "https://pbs.twimg.com/media/G4jYiJsa8AEuRcl?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 3",
+          "description": "ภาพธีมฮัลโลวีนในชุดแฟชั่นแนบลำตัว โฟกัสที่ใบหน้าและการโพสท์ท่าคิกขุ (ปรับคำอธิบายให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "วันเกิด – Birthday Post",
+          "url": "https://pbs.twimg.com/media/G4TpQ8FbkAAnRq1?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 4",
+          "description": "ภาพฉลองวันเกิดในชุดเดรสสวย โทนอบอุ่น เห็นใบหน้าชัดเจนพร้อมบรรยากาศเฉลิมฉลอง (ปรับคำอธิบายให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "โปรโมท OnlyFans – Exclusive Sets",
+          "url": "https://pbs.twimg.com/media/G3lJsZbWAAA9WQa?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 5",
+          "description": "ภาพโปรโมทคอนเทนต์ออนไลน์ โทนชิลล์ สวมชุดลำลองเน้นความเป็นกันเอง เห็นใบหน้าเด่นชัด (ปรับคำอธิบายให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "อัปเดต Fantia – Gravure Update",
+          "url": "https://pbs.twimg.com/media/G3IFEYcbwAAj6ip?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 6",
+          "description": "ภาพอัปเดตคอนเทนต์สไตล์กราเวียร์ในสตูดิโอ โทนภาพนุ่มนวล เห็นใบหน้าชัดเจน (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "โปรโมท OnlyFans สีแดง – Red Theme",
+          "url": "https://pbs.twimg.com/media/G2aThzobEAApIlJ?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 7",
+          "description": "ภาพโปรโมทธีมสีแดง ชุดโทนร้อนแรงแต่ยังคุมโทนภาพให้สุภาพ โฟกัสที่ใบหน้าและคอนเซปต์สีแดง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "ปาร์ตี้วันเกิดล่วงหน้า – Early Birthday",
+          "url": "https://pbs.twimg.com/media/G2UXF70bMAE0k0r?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 8",
+          "description": "ภาพปาร์ตี้วันเกิดกับเพื่อน ๆ บรรยากาศสนุกสนาน สวมชุดรัดรูปสุภาพ เห็นใบหน้าและรอยยิ้มชัดเจน (ปรับคำอธิบายให้เป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "อัปเดต Fantia – Happy Package",
+          "url": "https://pbs.twimg.com/media/G11D2h7bAAAuTcJ?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 9",
+          "description": "ภาพอัปเดตคอนเทนต์แนวกราเวียร์ริมทะเลหรือสระน้ำ โทนสดใส เน้นบรรยากาศพักผ่อนและใบหน้าชัดเจน (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "โปรโมท OnlyFans สีเขียว – Green Queen",
+          "url": "https://pbs.twimg.com/media/G1b0n-0bUAAoFWq?format=jpg&name=orig",
+          "alt": "Anri Okita – X Post 10",
+          "description": "ภาพโปรโมทในชุดโทนสีเขียว ดูโดดเด่น เน้นบุคลิกมั่นใจและใบหน้าชัดเจนมากกว่าความดึงดูดทางเพศ (ปรับคำอธิบายเป็น SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ปกผลงาน MIDE-233 – Asia Idol Shop",
+          "url": "https://shop.asia-idol.com/cdn/shop/files/MIDE-233_cover_f_620x.jpg?v=1702810827",
+          "alt": "Anri Okita – MIDE-233 Cover",
+          "description": "ภาพปกผลงานที่ใช้ในร้านออนไลน์ จัดแสงสวยงาม เน้นใบหน้าและบรรยากาศมืออาชีพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "กราเวียร์สตูดิโอ – Portrait 12",
+          "url": "https://j.uuu.cam/fanza/anri-okita/bbi00214/hd-anri-okita-5.jpg",
+          "alt": "Anri Okita – Gravure 12",
+          "description": "ภาพกราเวียร์ในสตูดิโอ โทนภาพนุ่ม เน้นสีหน้าอ่อนโยนและท่าทางสุภาพ (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพโปรไฟล์จากเสิร์ช – Search Portrait 13",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-bITRqcWV4RKvFjfgW_1YBwAdCAQHoN5s8tfEYuuIYgCd5P41xtY3veQ&s=10",
+          "alt": "Anri Okita – Portrait 13",
+          "description": "ภาพโปรไฟล์ขนาดย่อที่มักใช้บนเว็บไซต์ต่าง ๆ เห็นใบหน้าและทรงผมชัดเจน โทนสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "พรีวิวสตูดิโอ – Studio Preview 14",
+          "url": "https://cdn-1.ggjav.com/media/preview/121164_2.jpg",
+          "alt": "Anri Okita – Studio Preview 14",
+          "description": "ภาพพรีวิวจากสตูดิโอ จัดไฟและมุมกล้องมืออาชีพ เน้นใบหน้าและท่าทางมั่นใจ (ปรับให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพแฟชั่นแนวสุภาพ – Fashion Portrait 15",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9i1VMpBYbjprNCGtwp0QfdkoVM1C1oOmqAWHV4SC_4L_94tC831o6C7m4&s=10",
+          "alt": "Anri Okita – Fashion 15",
+          "description": "ภาพแฟชั่นโทนสุภาพ เห็นใบหน้าชัดเจน แต่งหน้าโทนอ่อน ให้ความรู้สึกเป็นมิตร (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพจากกองถ่าย – On-Set Still 16",
+          "url": "https://naked.metlica.club/uploads/posts/2025-01/09/17364417318178.jpg",
+          "alt": "Anri Okita – On-Set 16",
+          "description": "ภาพจากกองถ่ายหรือเบื้องหลังการทำงาน โฟกัสที่สีหน้าและบรรยากาศการถ่ายทำ (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW แล้ว)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรไฟล์ความละเอียดสูง – High-Res Portrait 17",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYSGfy0fydMRSiDZJzqnwWsQTgqE-8agCcdyvLjYvjvTBQ5rVWxmpRFU7&s=10",
+          "alt": "Anri Okita – High-Res 17",
+          "description": "ภาพใบหน้าชัดเจนในมุมพอร์ตเทรต เหมาะใช้เป็นภาพโปรไฟล์หรือภาพโปรโมท (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "สแนปช็อตจากวิดีโอ – Video Still 18",
+          "url": "https://u.jjj.cam/movie/avtits/anri.okita/video1151/5.jpg",
+          "alt": "Anri Okita – Video Still 18",
+          "description": "ภาพค้างจากวิดีโอที่จับจังหวะสีหน้าและท่าทางอย่างชัดเจน เน้นใบหน้ามากกว่ารายละเอียดอื่น (ปรับให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพแฟชั่นกลางแจ้ง – Outdoor Fashion 19",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeJi3cNSB8AWqaX-1wltInSd3KRT0ajFApFTln8HHeaBhoQo4MG8T00E&s=10",
+          "alt": "Anri Okita – Outdoor 19",
+          "description": "ภาพกลางแจ้งหรือกึ่งกลางแจ้งในลุคแฟชั่นสุภาพ เห็นใบหน้าเด่นชัด บรรยากาศสบาย ๆ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพพอร์ตเทรตโทนอ่อน – Portrait 20",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9dq1dPLsd3ZWJ3d3sFATT7swgIpDJZ2SREEE82hc71hE2SsHBPBARwVA&s=10",
+          "alt": "Anri Okita – Portrait 20",
+          "description": "ภาพพอร์ตเทรตโทนอ่อน เห็นใบหน้าชัดเจน ลุคสุภาพและเป็นธรรมชาติ เหมาะใช้เป็นภาพโปรไฟล์ (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "rara_anzai",
+      "idol_name": "Rara Anzai",
+      "images": [
+        {
+          "id": 1,
+          "name": "ภาพพอร์ตเทรตโปรไฟล์ (SFW)",
+          "url": "https://image.tmdb.org/t/p/original/Tc4TXMT2HnldvrV7en5vVHp5ee.jpg",
+          "alt": "Rara Anzai – Portrait 01",
+          "description": "ภาพพอร์ตเทรตใบหน้าชัดเจน โทนสุภาพ เหมาะใช้เป็นภาพโปรไฟล์หรือหน้าปก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ภาพพอร์ตเทรตโทนสุภาพ",
+          "url": "https://image.tmdb.org/t/p/original/eSrsgODcdzj45ylaaaRNspagpW.jpg",
+          "alt": "Rara Anzai – Portrait 02",
+          "description": "ภาพครึ่งตัว เห็นใบหน้าชัด แสงนุ่ม ให้ลุคสุภาพแม้ชุดค่อนข้างกระชับ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "ภาพแฟชั่นแนวเรียบง่าย",
+          "url": "https://image.tmdb.org/t/p/original/8mLoet8hIxPLaRfn1yf96gNZlyX.jpg",
+          "alt": "Rara Anzai – Portrait 03",
+          "description": "แฟชั่นลุคธรรมชาติ เน้นสีหน้าและความสงบ สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "ภาพแฟชั่นโทนจริงจัง",
+          "url": "https://image.tmdb.org/t/p/original/alNtdOp41m0csxpKVXgIo381uNv.jpg",
+          "alt": "Rara Anzai – Portrait 04",
+          "description": "ใช้พื้นหลังเรียบ ลุคจริงจัง เน้นสายตาและใบหน้า (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "ภาพพอร์ตเทรตระยะกลาง",
+          "url": "https://iv1.lisimg.com/image/21468527/740full-shion-utsunomiya.jpg",
+          "alt": "Rara Anzai – Portrait 05",
+          "description": "ภาพช่วงอกขึ้น โฟกัสใบหน้าและทรงผม ชุดรัดรูปเล็กน้อยแต่ยังสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "ภาพโปรไฟล์มองกล้อง",
+          "url": "https://iv1.lisimg.com/image/8462802/300full-shion-utsunomiya.jpg",
+          "alt": "Rara Anzai – Portrait 06",
+          "description": "มองกล้องตรง ชุดคอเว้าลึก แต่ยังไม่เห็นส่วนเปลือยสำคัญ โฟกัสที่ใบหน้า (SFW แต่เซ็กซี่มาก)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "ภาพแฟชั่นกึ่งใกล้ใบหน้า",
+          "url": "https://ilarge.lisimg.com/image/21272585/1118full-shion-utsunomiya.jpg",
+          "alt": "Rara Anzai – Portrait 07",
+          "description": "ท่านอนพิงโต๊ะ เห็นช่วงไหล่เยอะ โทนหวือหวาแต่ไม่ล่อแหลมเกินไป (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "ภาพยิ้มมองกล้องเป็นกันเอง",
+          "url": "https://iv1.lisimg.com/image/14825798/395full-shion-utsunomiya.jpg",
+          "alt": "Rara Anzai – Portrait 08",
+          "description": "ชุดว่ายน้ำสองชิ้น โทนภาพสดใส เน้นใบหน้าและรอยยิ้ม (SFW แต่เซ็กซี่สูง)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "ภาพแฟชั่นลุคผู้ใหญ่สุภาพ",
+          "url": "https://iv1.lisimg.com/image/17253641/740full-shion-utsunomiya.jpg",
+          "alt": "Rara Anzai – Portrait 09",
+          "description": "เดรสสายเดี่ยว ลุคผู้ใหญ่จริงจัง ชุดเว้าลึกแต่ยังไม่เห็นส่วนล่อแหลม (SFW – เซ็กซี่)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "ภาพโปรโมทจาก X (SFW)",
+          "url": "https://pbs.twimg.com/media/G2kaiciaoAAnU4Q?format=jpg&name=orig",
+          "alt": "Rara Anzai – X Post Portrait",
+          "description": "พอร์ตเทรตโปรโมท โทนสุภาพ เห็นใบหน้าเด่นชัด เหมาะใช้ประชาสัมพันธ์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "พอร์ตเทรตสตูดิโอ 11A",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCV334geny6ifiNOX7wSROj-qDskiD5PUKansTrEI8Lg-uwPJ0uku_CXI&s=10",
+          "alt": "Rara Anzai – Studio 11A",
+          "description": "ภาพจากสตูดิโอ เน้นใบหน้าและท่าทางมั่นใจ โทนภาพสุภาพแม้มีอารมณ์เซ็กซี่เล็กน้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรไฟล์ลุคจริงจัง 12A",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00671/ssni00671jp-2.jpg",
+          "alt": "Rara Anzai – Studio 12A",
+          "description": "ภาพลุคจริงจัง ใช้โทนแสงคมชัด เน้นโครงหน้า ดูมืออาชีพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพแฟชั่นลุคสุภาพ 13A",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00700/ssni00700jp-4.jpg",
+          "alt": "Rara Anzai – Portrait 13A",
+          "description": "ภาพแฟชั่นครึ่งตัว ชุดมีความเซ็กซี่เล็กน้อยแต่ยังสุภาพ เห็นใบหน้าเด่นชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพสตูดิโอโทนอุ่น 14A",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00727/ssni00727jp-7.jpg",
+          "alt": "Rara Anzai – Studio 14A",
+          "description": "โทนภาพอบอุ่น เน้นสายตาและใบหน้า ดูผ่อนคลายและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพโปรโมทแนวแฟชั่น 15A",
+          "url": "https://pics.dmm.co.jp/digital/video/ssis00124/ssis00124jp-6.jpg",
+          "alt": "Rara Anzai – Fashion 15A",
+          "description": "ภาพแนวแฟชั่นในสตูดิโอ ใช้แสงเน้นใบหน้า ชุดมีโทนเซ็กซี่แต่วางตัวดี (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "พอร์ตเทรตโทนมืออาชีพ 16A",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9S9Pqobaj7WcUrkfRBZab5i4EmkxkcUWftj5Lw0aeY3HukkUwsd6Kyus&s=10",
+          "alt": "Rara Anzai – Portrait 16A",
+          "description": "พอร์ตเทรตลุคผู้ใหญ่สุขุม โฟกัสใบหน้าชัดเจน ให้ความรู้สึกเรียบร้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "สตูดิโอโปรไฟล์ลุคสดใส 17A",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPyMwrwqnZK_4xKjeaDsLYSxwC6M998M75LWDAPJxE-A0yGZ1JEuIcLc&s=10",
+          "alt": "Rara Anzai – Studio 17A",
+          "description": "แสงสตูดิโอสดใส เน้นใบหน้าและรอยยิ้มบาง ๆ ลุคเป็นกันเอง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพแฟชั่นโมเดิร์น 18A",
+          "url": "https://livedoor.blogimg.jp/j36s8-kyooxrya/imgs/6/f/6fdb1d3a.jpg",
+          "alt": "Rara Anzai – Modern 18A",
+          "description": "โทนภาพโมเดิร์น เน้นใบหน้าและบุคลิกมั่นใจ ชุดดูเรียบแต่มีความเซ็กซี่เล็กน้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตโทนนุ่มนวล 19A",
+          "url": "https://pics.dmm.co.jp/digital/video/ssis00172/ssis00172jp-9.jpg",
+          "alt": "Rara Anzai – Soft Portrait 19A",
+          "description": "พอร์ตเทรตโทนแสงนุ่ม เห็นใบหน้าเด่น ให้ความรู้สึกอบอุ่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรไฟล์โทนครึกครื้น 20A",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYndM2yUmVSp4YAex9iiqdKUcFSqhVJagy0RmAiUkI35eYT_RBeVc6O6M&s=10",
+          "alt": "Rara Anzai – Promo 20A",
+          "description": "ภาพโปรโมทโทนสดใส เน้นใบหน้าและท่าทางมั่นใจ เหมาะใช้ประกอบ section รวมภาพ SFW (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "yumi_kazama",
+      "idol_name": "Yumi Kazama",
+      "images": [
+        {
+          "id": 1,
+          "name": "ภาพพอร์ตเทรตโปรไฟล์ (SFW)",
+          "url": "https://pbs.twimg.com/media/G5JF6XgbcAAJGvN.jpg",
+          "alt": "Yumi Kazama – Portrait 01",
+          "description": "ภาพใกล้ใบหน้าชัดเจน โทนสุภาพ เหมาะใช้เป็นภาพโปรไฟล์หรือหน้าปก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ภาพพอร์ตเทรตโทนสุภาพ",
+          "url": "https://pbs.twimg.com/media/G3mlF20XsAA5wW7.jpg",
+          "alt": "Yumi Kazama – Portrait 02",
+          "description": "ภาพถ่ายครึ่งตัว เห็นใบหน้าชัด โทนแสงนุ่มนวล ดูเป็นทางการ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "พอร์ตเทรตทักทายแฟน ๆ (SFW)",
+          "url": "https://image.xb1.com/backdrops/427887171.jpg",
+          "alt": "Yumi Kazama – Portrait 03",
+          "description": "เซลฟีระยะใกล้ ยกมือโบกทักทาย โทนแสงอุ่น ลุคเป็นกันเองและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "เซลฟีธีมฮัลโลวีนลุคน่ารัก (SFW)",
+          "url": "https://image.xb1.com/backdrops/397489976.jpg",
+          "alt": "Yumi Kazama – Halloween Portrait",
+          "description": "ใส่ที่คาดผมหูแมวโทนฮัลโลวีน ยิ้มมองกล้อง น่ารักและไม่โป๊ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "ภาพพอร์ตเทรตระยะกลาง",
+          "url": "https://pbs.twimg.com/media/G3L69sObUAAKf-d.jpg",
+          "alt": "Yumi Kazama – Portrait 05",
+          "description": "ภาพช่วงอกขึ้น เห็นใบหน้าชัดเจน โทนสุภาพ เรียบร้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "ภาพโปรไฟล์มองกล้อง",
+          "url": "https://pbs.twimg.com/media/G2fV5-dbIAA04Lx.jpg",
+          "alt": "Yumi Kazama – Portrait 06",
+          "description": "มองกล้องตรง ให้ฟีลเป็นกันเอง เหมาะใช้เป็นภาพโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "ภาพแฟชั่นกึ่งใกล้ใบหน้า",
+          "url": "https://pbs.twimg.com/media/G2be9L1aIAAljqY.jpg",
+          "alt": "Yumi Kazama – Portrait 07",
+          "description": "กึ่งใกล้ใบหน้า เน้นสายตาและสีหน้า โทนเรียบง่าย สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "ภาพยิ้มมองกล้องเป็นกันเอง",
+          "url": "https://pbs.twimg.com/media/G2WMAN9bcAEnomS.jpg",
+          "alt": "Yumi Kazama – Portrait 08",
+          "description": "รอยยิ้มสดใส โทนภาพสว่าง อารมณ์เป็นมิตร ดูเป็นธรรมชาติ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "ยืนพิงเสาในโทนอ่อนโยน (SFW)",
+          "url": "https://image.xb1.com/backdrops/996ddf74-439b-4c3b-98ac-15e4e76664d0.jpg",
+          "alt": "Yumi Kazama – Garden 02",
+          "description": "เดรสลายดอก โทนสวนอ่อนโยน เห็นใบหน้าชัดเจน แต่งกายสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "ภาพโปรโมทจาก X (SFW)",
+          "url": "https://pbs.twimg.com/media/G6ctKVaaYAABj-1.jpg",
+          "alt": "Yumi Kazama – X Post Portrait",
+          "description": "ภาพโปรโมทพอร์ตเทรต โทนสุภาพ เหมาะใช้ประชาสัมพันธ์หรือหน้าปก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "สตูดิโอพอร์ตเทรต 11A",
+          "url": "https://pics.dmm.co.jp/digital/video/achj00073/achj00073jp-4.jpg",
+          "alt": "Yumi Kazama – Studio 11A",
+          "description": "พอร์ตเทรตในสตูดิโอ เน้นใบหน้าและท่าทางสงบนิ่ง โทนสุภาพ มืออาชีพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "พอร์ตเทรตลุคผู้ใหญ่ 13A",
+          "url": "https://pics.dmm.co.jp/digital/video/jums00136/jums00136jp-7.jpg",
+          "alt": "Yumi Kazama – Portrait 13A",
+          "description": "ภาพลุคสุขุม เน้นบุคลิกผู้ใหญ่มั่นใจ เห็นใบหน้าชัดเจน โทนภาพสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพโปรโมทโทนจริงจัง 14A",
+          "url": "https://pics.dmm.co.jp/digital/video/nask00289/nask00289jp-3.jpg",
+          "alt": "Yumi Kazama – Promo 14A",
+          "description": "โทนเข้มเล็กน้อย เน้นสีหน้าจริงจัง ดูเป็นมืออาชีพและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "สตูดิโอโปรไฟล์ 16A",
+          "url": "https://pics.dmm.co.jp/digital/video/jur00569/jur00569jp-5.jpg",
+          "alt": "Yumi Kazama – Portrait 16A",
+          "description": "โทนภาพมืออาชีพ เห็นใบหน้าชัดเจน ลุคสุขุมเรียบร้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพลุคสุภาพ 17A",
+          "url": "https://pics.dmm.co.jp/digital/video/jufd00630/jufd00630jp-1.jpg",
+          "alt": "Yumi Kazama – Soft 17A",
+          "description": "โฟกัสใบหน้าและท่วงท่าเรียบร้อย โทนภาพนุ่มนวล สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "พอร์ตเทรตโทนสุภาพ 16B",
+          "url": "https://j.jjj.cam/fanza/yumi-kazama/tywd00062/yumi-kazama-1.jpg",
+          "alt": "Yumi Kazama – Portrait 16B",
+          "description": "ภาพพอร์ตเทรตระยะใกล้ เห็นใบหน้าชัดเจน โทนแสงนุ่ม ดูสุภาพ เหมาะใช้ในแกลเลอรี SFW (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรไฟล์กล้องสตูดิโอ 18A",
+          "url": "https://pics.dmm.co.jp/digital/video/jur00534/jur00534jp-4.jpg",
+          "alt": "Yumi Kazama – Studio 18A",
+          "description": "โทนแสงคมชัด เน้นโครงหน้าและบุคลิกนิ่งสงบ เหมาะใช้เป็นภาพโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพพอร์ตเทรตโทนอุ่น 19A",
+          "url": "https://pics.dmm.co.jp/digital/video/mdon00086/mdon00086jp-7.jpg",
+          "alt": "Yumi Kazama – Portrait 19A",
+          "description": "แสงอุ่นเป็นกันเอง โฟกัสที่ใบหน้าและรอยยิ้มเล็ก ๆ ให้ฟีลอบอุ่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตโทนมืออาชีพ 21A",
+          "url": "https://pics.dmm.co.jp/digital/video/lzbs00123/lzbs00123jp-3.jpg",
+          "alt": "Yumi Kazama – Portrait 21A",
+          "description": "พอร์ตเทรตลุคผู้ใหญ่มั่นใจ โฟกัสใบหน้าและแววตาชัดเจน โทนมืออาชีพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรโมทโทนคลาสสิก 25A",
+          "url": "https://pics.dmm.co.jp/digital/video/bijc00024/bijc00024jp-10.jpg",
+          "alt": "Yumi Kazama – Classic 25A",
+          "description": "ภาพลุคผู้ใหญ่สงบนิ่ง โทนคลาสสิก เหมาะใช้ใน section รวมภาพ SFW (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "touka_rinne",
+      "idol_name": "Touka Rinne",
+      "images": [
+        {
+          "id": 1,
+          "name": "ยูคาตะลายดอกไม้โทนอุ่น (SFW)",
+          "url": "https://pbs.twimg.com/media/Gp7V3HMawAECXAk?format=jpg&name=orig",
+          "alt": "Touka Rinne – Yukata Portrait 01",
+          "description": "ภาพครึ่งตัวในชุดยูคาตะลายดอกไม้ โพสยิ้มมองกล้องตรง เห็นใบหน้าและทรงผมชัดเจน บรรยากาศอบอุ่นและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ยืนโพสในชุดยูคาตะเต็มตัว (SFW)",
+          "url": "https://i.namu.wiki/i/Tjku4K1zreWixcN205K7ig7VAEjaU-QoUVP5gu1e4lgfftYxvTCsLehhghZtTHwUSE7kI220-AWV3IMd8_aWEA.webp",
+          "alt": "Touka Rinne – Yukata Full Body",
+          "description": "ภาพเต็มตัวในชุดยูคาตะ ยืนโพสอย่างเรียบร้อย เห็นทั้งใบหน้า ท่าทาง และลายผ้าชัดเจน โทนโดยรวมสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "พอร์ตเทรตกลางแจ้งโทนอ่อน (SFW)",
+          "url": "https://pbs.twimg.com/media/Gp7V3HNaIAAIQag?format=jpg&name=orig",
+          "alt": "Touka Rinne – Yukata Portrait 02",
+          "description": "ภาพพอร์ตเทรตระยะใกล้ในชุดยูคาตะ ถ่ายด้วยแสงธรรมชาติกลางแจ้ง เน้นใบหน้า ดวงตา และรอยยิ้ม โทนภาพนุ่มนวล (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "เดินเล่นริมทะเลสาบในกระโปรงแดง (SFW)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGwoCQIBnxTc3slXv06Xg1uUjPS099pgRcubZbrH2VHxllHk8J8n8_xE&s=10",
+          "alt": "Touka Rinne – Lakeside Walk",
+          "description": "ภาพเต็มตัวริมทะเลสาบ สวมเสื้อเชิ้ตโทนอ่อนกับกระโปรงยาวสีแดง ก้าวเดินพร้อมรอยยิ้ม บรรยากาศธรรมชาติสบายตา (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "พอร์ตเทรตเดบิวต์ในสตูดิโอ (SFW)",
+          "url": "https://hosonhanvat.net/wp-content/uploads/2021/08/touka-rinne-12.jpg",
+          "alt": "Touka Rinne – Studio Debut Portrait",
+          "description": "ภาพครึ่งตัวในสตูดิโอ สวมชุดโทนอ่อนที่ค่อนข้างเข้ารูป แต่จุดโฟกัสหลักอยู่ที่ใบหน้า สายตา และทรงผม ภาพโดยรวมยังสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "ลุคบอดี้สูทสีดำเท่ ๆ (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/watermark/954a89223314322269cb32d554ef544a78d0e801.png",
+          "alt": "Touka Rinne – Black Suit Pose",
+          "description": "ภาพครึ่งตัวในชุดบอดี้สูทแขนยาวสีดำ ปิดมิดชิด โพสหันข้างมองกล้อง ให้ลุคเท่ สุภาพ และดูเป็นแฟชั่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "ยืนในลำธารน้ำใสท่ามกลางธรรมชาติ (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/watermark/2b5a4b2d40f6b97466b741e7f7a41d3ce13e45ec.png",
+          "alt": "Touka Rinne – River Scene",
+          "description": "ภาพเต็มตัวในลำธารน้ำตื้น สวมเสื้อพิมพ์ลายกับกระโปรงยาวสีขาว ยกมือทักทายกล้อง ฉากหลังเป็นป่าเขียว บรรยากาศสดชื่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "สนทนาในห้องรับแขก (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/watermark/3f7d63949bf8f6c9d525bab7049fa8fd8f0207bf.png",
+          "alt": "Touka Rinne – Casual Talk",
+          "description": "ภาพในห้องนั่งเล่น สวมเสื้อยืดคอวีและกางเกงลำลอง กำลังพูดคุยกับอีกคนหนึ่ง เห็นใบหน้าชัดเจน บรรยากาศกันเอง ไม่เป็นทางการแต่สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "ลุคเสื้อฟ้า–กระโปรงลายดอก (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/205e51502887a7b1af8aa3ff5f637c101c2f0145.jpg",
+          "alt": "Touka Rinne – Blue Top Style",
+          "description": "ภาพครึ่งตัวสวมเสื้อคอวีสีฟ้าและกระโปรงลายดอกยาว ยืนในทางเดินในอาคาร โฟกัสที่ใบหน้าและสไตล์การแต่งกายเรียบง่าย สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "มุม横หน้าด้วยสูทสีอ่อน (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/896096448c59b26f52cff8dd83a0852e739f6c5d.jpg",
+          "alt": "Touka Rinne – Profile in Suit",
+          "description": "ภาพครึ่งตัวหันข้าง สวมเสื้อสูทสีอ่อน ดูเป็นผู้ใหญ่ สุภาพ เน้นเส้นหน้าและทรงผมด้านข้างอย่างชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพโปรโมทสตูดิโอโทนเข้ม (SFW)",
+          "url": "https://cdn-vr.sexlikereal.com/images/7874/vr-porn-Touka-Rinne-Huge-Tits-Blowjob-Leads-to-Creampie-Sex-Part--50881-original.webp",
+          "alt": "Touka Rinne – Promo 11",
+          "description": "ภาพโปรโมทจากกองถ่ายในสตูดิโอ เน้นใบหน้าและการจัดแสงโทนเข้ม ปรับมุมมองเป็นเชิงภาพลักษณ์ทั่วไป (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรโมทในห้อง – ระยะกลาง (SFW)",
+          "url": "https://cdn-1.ggjav.com/media/preview/166732_4.jpg",
+          "alt": "Touka Rinne – Promo 12",
+          "description": "ภาพโปรโมทระยะกลาง เห็นใบหน้าและท่าทางชัดเจน ใช้ในเชิงโปสเตอร์/ปกผลงาน ปรับเนื้อหาเป็นคำอธิบายกลาง ๆ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพปกโปรโมทจาก DMM – ใบหน้าชัดเจน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/rvr00025/rvr00025jp-2.jpg",
+          "alt": "Touka Rinne – Promo 13",
+          "description": "ภาพปกโปรโมทจากสตูดิโอ โฟกัสที่ใบหน้าและการจัดองค์ประกอบภาพ รายละเอียดอื่นมองในบริบทงานโปรโมท (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพโปรโมทแนวแฟชั่นเซ็ต (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00163/ssni00163jp-3.jpg",
+          "alt": "Touka Rinne – Promo 14",
+          "description": "ภาพจากเซ็ตโปรโมทที่จัดท่าโพสชัดเจน เน้นบุคลิก การจัดแสง และสไตล์ภาพให้ดูเป็นแฟชั่นมากกว่าความหวือหวา (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพโปรโมทในห้อง – โทนสว่าง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00188/ssni00188jp-4.jpg",
+          "alt": "Touka Rinne – Promo 15",
+          "description": "ภาพโปรโมทในห้องแสงสว่าง เน้นใบหน้าและท่าทางอย่างชัดเจน รายละเอียดชุดถูกมองในเชิงงานภาพนิ่ง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพโปรโมทมุมอื่นจากชุดเดียวกัน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00188/ssni00188jp-6.jpg",
+          "alt": "Touka Rinne – Promo 16",
+          "description": "ภาพต่อเนื่องจากเซ็ตเดียวกัน มุมและท่าทางเปลี่ยนเล็กน้อย แต่ยังเน้นการสื่อบุคลิกและใบหน้าเป็นหลัก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรโมทโทนอบอุ่น (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00214/ssni00214jp-2.jpg",
+          "alt": "Touka Rinne – Promo 17",
+          "description": "ภาพโปรโมทในโทนสีอบอุ่น ใช้การจัดไฟให้ใบหน้าเด่นชัด เหมาะใช้เป็นภาพประกอบข้อมูลผลงาน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพโปรโมทมุมระยะไกลขึ้น (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00214/ssni00214jp-5.jpg",
+          "alt": "Touka Rinne – Promo 18",
+          "description": "ภาพระยะไกลขึ้นให้เห็นทั้งใบหน้าและสรีระรวม ๆ แต่เน้นในเชิงการออกแบบปกและองค์ประกอบภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพโปรโมทโทนสดใส (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00237/ssni00237jp-1.jpg",
+          "alt": "Touka Rinne – Promo 19",
+          "description": "ภาพปกโปรโมทจัดแสงสว่างสดใส ใบหน้าชัด โทนภาพดูเป็นกันเองและเน้นบุคลิกมากกว่ารายละเอียดอื่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรโมทมุมใกล้จากชุดเดียวกัน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00237/ssni00237jp-7.jpg",
+          "alt": "Touka Rinne – Promo 20",
+          "description": "ภาพมุมใกล้และเจาะรายละเอียดใบหน้า / ท่าทางมากขึ้น ใช้ในเชิงภาพนิ่งโปรโมท (ปรับคำอธิบายอยู่ในกรอบ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 21,
+          "name": "ภาพโปรโมทในห้องโทนนุ่มนวล (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00263/ssni00263jp-3.jpg",
+          "alt": "Touka Rinne – Promo 21",
+          "description": "ภาพโปรโมทในห้องที่ใช้โทนสีอ่อนและแสงนุ่มนวล ให้ความรู้สึกสบายตาและเน้นใบหน้าเป็นหลัก (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 22,
+          "name": "ภาพโปรโมทมุมอื่นในชุดเดียวกัน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/ssni00263/ssni00263jp-8.jpg",
+          "alt": "Touka Rinne – Promo 22",
+          "description": "ภาพจากมุมอื่นในเซ็ตเดียวกัน เพิ่มมิติการโพสท่าและการจัดองค์ประกอบภาพ แต่ยังคงมุมมองแบบ SFW (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 23,
+          "name": "ภาพโปรโมทโทนคอนทราสต์สูง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/pred00149/pred00149jp-4.jpg",
+          "alt": "Touka Rinne – Promo 23",
+          "description": "ภาพโปรโมทที่ใช้แสง–เงาคอนทราสต์สูง เน้นสีหน้าและสายตา ให้ฟีลจริงจังขึ้นเล็กน้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 24,
+          "name": "ภาพโปรโมทต่อเนื่องจากชุดเดียวกัน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/pred00149/pred00149jp-9.jpg",
+          "alt": "Touka Rinne – Promo 24",
+          "description": "ภาพต่อเนื่องจากเซ็ตเดียวกัน เปลี่ยนท่าโพสแต่ยังคงเน้นมุมของใบหน้าและบุคลิกภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 25,
+          "name": "ภาพปกโปรโมทโทนเข้ม (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/pppd00715/pppd00715jp-1.jpg",
+          "alt": "Touka Rinne – Promo 25",
+          "description": "ภาพปกโปรโมทโทนสีเข้ม เน้นการจัดไฟให้ใบหน้าเด่น เหมาะใช้เป็นภาพหน้าปกในบริบทข้อมูลผลงาน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 26,
+          "name": "ภาพโปรโมทกลางแจ้งมุมก้ม (SFW)",
+          "url": "https://imggen.eporner.com/12062724/1280/720/10.jpg",
+          "alt": "Touka Rinne – Outdoor Promo 26",
+          "description": "ภาพถ่ายกลางแจ้งที่จัดมุมก้มให้เห็นใบหน้าและท่าทางเด่นชัด ปรับมองเป็นงานภาพนิ่งเน้นองค์ประกอบและโทนสี (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 27,
+          "name": "พอร์ตเทรตกลางแจ้ง – ทรงผมปล่อยยาว (SFW)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRer-MrWVgfwiEeBmLcZDWOfVFG2JvigtoLL161H-YkMQlg1lvViG-YMt8&s=10",
+          "alt": "Touka Rinne – Portrait 27",
+          "description": "ภาพพอร์ตเทรตกลางแจ้งหรือใกล้หน้าต่าง แสงธรรมชาติอ่อน ๆ เน้นใบหน้าและทรงผมยาวอย่างชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 28,
+          "name": "ภาพโปรโมทโทนอบอุ่นในห้อง (SFW)",
+          "url": "https://j.uuu.cam/fanza/touka-rinne/pred00380/touka-rinne-1.jpg",
+          "alt": "Touka Rinne – Promo 28",
+          "description": "ภาพโปรโมทในห้องโทนสีอบอุ่น โฟกัสที่ใบหน้าและท่าทางสงบ ใช้มองเป็นภาพประกอบสื่อหรือโปรไฟล์ได้ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 29,
+          "name": "ภาพโปรโมทสตูดิโอ – มุมใกล้ (SFW)",
+          "url": "https://j.uuu.cam/fanza/touka-rinne/pppd00754/touka-rinne-2.jpg",
+          "alt": "Touka Rinne – Promo 29",
+          "description": "ภาพมุมใกล้ในสตูดิโอ เน้นสีหน้าและการจัดไฟที่ทำให้ใบหน้าเด่นกว่าพื้นหลัง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 30,
+          "name": "ภาพโปรโมทนอกสถานที่ – โทนสดใส (SFW)",
+          "url": "https://j.uuu.cam/fanza/touka-rinne/172xrw00809/touka-rinne-19.jpg",
+          "alt": "Touka Rinne – Outdoor Promo 30",
+          "description": "ภาพถ่ายนอกสถานที่ในชุดลำลอง โทนภาพสดใส เน้นใบหน้าและบรรยากาศโดยรอบมากกว่ารายละเอียดชุด (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "chisato_shoda",
+      "idol_name": "Chisato Shoda",
+      "images": [
+        {
+          "id": 1,
+          "name": "พอร์ตเทรตโทนอุ่นในห้อง (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/2456c9c9ba577af1b370831162605e1e4a0e1349.jpg",
+          "alt": "Chisato Shoda – Portrait 01",
+          "description": "ภาพครึ่งตัวในห้อง สวมเสื้อด้านในสีขาวทับด้วยเสื้อคลุมสีเข้ม ยิ้มมองกล้อง ใบหน้าชัดเจน โทนสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "นั่งบนโซฟาในเดรสสีไวน์แดง (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/3929dcae3912d0692b3d60b5737d43e8fd51e2a2.jpg",
+          "alt": "Chisato Shoda – Sofa Portrait",
+          "description": "ภาพนั่งบนโซฟา สวมเดรสสีแดงอมม่วง เน้นใบหน้าและรอยยิ้ม ดูสบาย ๆ แต่ยังสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "ลุคสูททางการในงานอีเวนต์ (SFW)",
+          "url": "https://i0.hdslb.com/bfs/article/bca44ea4d0246438bb95e9541840f27c3a4cbcd0.jpg",
+          "alt": "Chisato Shoda – Event Suit",
+          "description": "ถ่ายในงานอีเวนต์ด้านหน้าแบ็กดรอป “SHOSEN” สวมสูทลายทางสีเข้มกับกระโปรงสั้น ถุงน่องสีดำ ปิดกระดุมเรียบร้อย เห็นใบหน้าและบุคลิกชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "ยูคาตะลายใบไม้หน้าระเบียง (SFW)",
+          "url": "https://img.xsnvshen.com/thumb_600x900/album/10914/11444/017.jpg",
+          "alt": "Chisato Shoda – Yukata 01",
+          "description": "ภาพเต็มตัวใส่ยูคาตะสีขาวลายใบไม้คาดโอบิสีแดง นั่งบริเวณชานบ้านสไตล์ญี่ปุ่น เห็นใบหน้า ท่าทางสุภาพและเรียบร้อย (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "พอร์ตเทรตระยะกลางในชุดลำลอง (SFW)",
+          "url": "https://pbs.twimg.com/media/G69tKSxbQAA7Qo-.jpg",
+          "alt": "Chisato Shoda – Portrait 05",
+          "description": "ภาพจากช่วงอกขึ้นไป โฟกัสที่ใบหน้าและทรงผมอย่างชัดเจน แสงนุ่ม โทนภาพสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "ภาพโปรโมทจาก X – โฟกัสใบหน้า (SFW)",
+          "url": "https://pbs.twimg.com/media/G6MK8bUacAEuKrZ.jpg",
+          "alt": "Chisato Shoda – X Post Portrait",
+          "description": "ภาพพอร์ตเทรตจากโพสต์บน X จัดมุมให้เห็นใบหน้าเต็ม ๆ โทนสีสงบ เหมาะใช้เป็นภาพโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "งานเปิดตัวโฟโต้บุ๊กในแจ็กเก็ตหนัง (SFW)",
+          "url": "https://stat.ameba.jp/user_images/20131225/02/mart-idol/30/00/j/t02200330_0427064012791626523.jpg?caw=800",
+          "alt": "Chisato Shoda – Shosen Event 01",
+          "description": "ภาพยืนเต็มตัวในงานลายเซ็น สวมแจ็กเก็ตหนังสีดำทับเดรสลายเสือ ยืนโพสหน้าบอร์ดอีเวนต์ เห็นใบหน้าและทรงผมชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "เดรสแดงในงานอีเวนต์พร้อมช่อดอกไม้ (SFW)",
+          "url": "https://stat.ameba.jp/user_images/20131225/02/mart-idol/39/ae/j/t02200330_0427064012791626519.jpg?caw=800",
+          "alt": "Chisato Shoda – Shosen Event 02",
+          "description": "ภาพยืนถือกระเช้าดอกไม้ สวมเดรสแดงในงานลายเซ็น เน้นรอยยิ้มและบรรยากาศงานอีเวนต์ คอเสื้อเว้าเล็กน้อยแต่โดยรวมยังอยู่ในเกณฑ์ SFW",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "ปกโฟโต้บุ๊กโคลสอัปใบหน้า (SFW)",
+          "url": "https://stat.ameba.jp/user_images/20131129/19/mart-idol/54/07/j/t02200307_0286039912764970154.jpg?caw=800",
+          "alt": "Chisato Shoda – Photobook Cover",
+          "description": "ภาพหน้าปกโฟโต้บุ๊กแบบโคลสอัป เน้นใบหน้าและท่าพิงแขน ไหล่เปลือยเล็กน้อยแต่ไม่เห็นส่วนโป๊ เหมาะใช้เป็นภาพโปรไฟล์หรือภาพประกอบบทความ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "ลุคเดรสดำกับหมวกตาข่าย (SFW)",
+          "url": "https://img00.deviantart.net/a384/i/2016/188/6/9/chisato_shoda_by_sipahilancer-da92zfh.jpg",
+          "alt": "Chisato Shoda – Black Dress Portrait",
+          "description": "ภาพนั่งบนเสื่อทาทามิ สวมเดรสสีดำแขนสามส่วนพร้อมหมวกตาข่ายสไตล์แฟชั่น ใบหน้าชัด ท่าทางสงบ สุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพโปรโมทกองถ่าย – โทนจริงจัง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/atid00652/atid00652jp-5.jpg",
+          "alt": "Chisato Shoda – Promo Set A 11",
+          "description": "ภาพโปรโมทจากกองถ่าย เน้นใบหน้าและท่าทางจริงจัง แต่งกายอยู่ในเกณฑ์สุภาพ (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรโมทแนวพอร์ตเทรต (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/bonu00043/bonu00043jp-4.jpg",
+          "alt": "Chisato Shoda – Promo Set B 12",
+          "description": "ภาพพอร์ตเทรตจากสตูดิโอ โฟกัสที่ใบหน้าและการจัดแสง ให้ฟีลแฟชั่นเซ็ตมากกว่าความเซ็กซี่ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพโปรโมทในห้อง – มุมระยะกลาง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/aukg00636/aukg00636jp-2.jpg",
+          "alt": "Chisato Shoda – Promo Set C 13",
+          "description": "ภาพระยะกลางในห้องจัดไฟ เน้นสีหน้าและบุคลิก ภาพถูกมองในมุมของงานโปรโมท (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพโปรโมทสตูดิโอ – ใบหน้าชัดเจน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/venx00342/venx00342jp-7.jpg",
+          "alt": "Chisato Shoda – Promo Set D 14",
+          "description": "ภาพจากสตูดิโอจัดไฟ โฟกัสใบหน้าและท่าทางนิ่ง เนื้อหาปรับให้อยู่ในกรอบ SFW เน้นบรรยากาศการถ่ายทำ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพโปรโมทโทนอบอุ่น (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/jdl00113/jdl00113jp-3.jpg",
+          "alt": "Chisato Shoda – Promo Set E 15",
+          "description": "ภาพโปรโมทโทนสีอบอุ่น เน้นใบหน้าและการจัดองค์ประกอบภาพมากกว่ารายละเอียดชุด (ปรับเป็นคำอธิบายกลาง ๆ ระดับ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพโปรโมทแนวแฟชั่นเรียบง่าย (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/sgm00060/sgm00060jp-6.jpg",
+          "alt": "Chisato Shoda – Promo Set F 16",
+          "description": "ภาพแนวแฟชั่นจากกองถ่าย โฟกัสที่ท่าทางและใบหน้า ชุดอาจดูลำลองแต่ยังสื่อสารในกรอบ SFW (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรโมทกองถ่าย – โทนเข้ม (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/bjd00055/bjd00055jp-7.jpg",
+          "alt": "Chisato Shoda – Promo Set G 17",
+          "description": "ภาพโทนสีเข้มจากงานโปรโมท เน้นสีหน้าและแสงเงา ตัดรายละเอียดที่อาจล่อแหลม เหลือเพียงมุมมองเชิงภาพลักษณ์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพพอร์ตเทรตกลางแจ้ง/นอกสถานที่ (SFW)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI8ET_1-2pEzAeah3o8QFWGUepOIA1foUCv3C7r4WXR04ub3WWeacAHI&s=10",
+          "alt": "Chisato Shoda – Outdoor Portrait 18",
+          "description": "ภาพใบหน้าชัดเจนในบรรยากาศนอกสถานที่หรือใกล้หน้าต่าง แสงธรรมชาติ ให้ฟีลเป็นกันเองและสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพพอร์ตเทรตโทนสว่าง (SFW)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXOOnYZVfDpG-y6fShOckHKUvj5_YRmybPCfSHd9zuy4SRKxDCNUoty8&s=10",
+          "alt": "Chisato Shoda – Portrait 19",
+          "description": "ภาพเน้นใบหน้าและรอยยิ้ม โทนแสงสว่างนุ่มนวล เหมาะใช้เป็นภาพหน้าปกหรือภาพแนะนำโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรโมทโฟโต้ช็อต – โทนแฟชั่น (SFW)",
+          "url": "https://www.gravurefit.com/images/fanzawebp/savr/savr00595jp-4.webp",
+          "alt": "Chisato Shoda – Gravure Style 20",
+          "description": "ภาพโฟโต้ช็อตจากงานกราเวียร์ เน้นใบหน้าและการจัดโพสในสตูดิโอ ปรับมุมมองเป็นเชิงแฟชั่น เหลือเพียงระดับที่เหมาะสมสำหรับ SFW (SFW)",
+          "sfw": true
+        }
+      ]
+    },
+    {
+      "idol_slug": "sumire_mizukawa",
+      "idol_name": "Sumire Mizukawa",
+      "images": [
+        {
+          "id": 1,
+          "name": "พอร์ตเทรตโทนจริงจัง (SFW)",
+          "url": "https://pbs.twimg.com/media/G1JCFJbaQAEtZnd.jpg",
+          "alt": "Sumire Mizukawa – Portrait 01",
+          "description": "ภาพโคลสอัพใบหน้าในโทนจริงจัง แต่งหน้าเรียบ ดูสุภาพ เหมาะใช้เป็นโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 2,
+          "name": "ผมบ็อบสีน้ำตาลอ่อนลุคคุณหนู (SFW)",
+          "url": "https://image.tmdb.org/t/p/original/jawLsNySYKufKjmNEzYP7nN04Cw.jpg",
+          "alt": "Sumire Mizukawa – Portrait 02",
+          "description": "ภาพครึ่งตัวในแสงอบอุ่น ผมบ็อบสั้น สวมเสื้อไหมพรมอ่อน ให้ลุคสุภาพเป็นผู้ใหญ่ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 3,
+          "name": "โปรไฟล์เสื้อเขียวมิ้นต์ (SFW)",
+          "url": "https://image.nima3.com/profile/hLehniBTV7jfNV0dSWxehtDALtb.jpg",
+          "alt": "Sumire Mizukawa – Portrait 03",
+          "description": "ภาพหน้าตรงฉากหลังเรียบ ใบหน้าและดวงตาชัดเจน ดูสุภาพเหมาะกับงานข้อมูล (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 4,
+          "name": "พอร์ตเทรตใกล้ใบหน้า (SFW)",
+          "url": "https://pbs.twimg.com/media/G6ufUpRa0AEE4tO.jpg",
+          "alt": "Sumire Mizukawa – Portrait 04",
+          "description": "ภาพพอร์ตเทรตโทนนุ่มนวล เหมาะใช้เป็นภาพโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 5,
+          "name": "ภาพโปรไฟล์โทนสุภาพ (SFW)",
+          "url": "https://pbs.twimg.com/media/G6ufUpSa0AIzcN2.jpg",
+          "alt": "Sumire Mizukawa – Portrait 05",
+          "description": "ภาพครึ่งตัวโทนสว่าง ใบหน้าเห็นชัด ให้ภาพลักษณ์เป็นทางการ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 6,
+          "name": "แฟชั่นลุคเรียบง่าย (SFW)",
+          "url": "https://pbs.twimg.com/media/G6nORkPbMAAlSaI.jpg",
+          "alt": "Sumire Mizukawa – Portrait 06",
+          "description": "ภาพแฟชั่นเรียบง่าย โฟกัสที่ใบหน้าและท่าทางสงบ เป็นธรรมชาติ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 7,
+          "name": "พอร์ตเทรตระยะกลาง (SFW)",
+          "url": "https://pbs.twimg.com/media/G5PnxW9aoAAblP8.jpg",
+          "alt": "Sumire Mizukawa – Portrait 07",
+          "description": "ภาพช่วงอกขึ้นไป ใบหน้าชัดเจน โทนสุภาพ เหมาะใช้ประกอบบทสัมภาษณ์หรือโปรไฟล์ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 8,
+          "name": "ลุคลำลองบนบันได (SFW)",
+          "url": "https://image.nima3.com/backdrops/k633x8Oc1fq2.jpg",
+          "alt": "Sumire Mizukawa – Casual Stairs Look",
+          "description": "ภาพนั่งบนบันไดสไตล์ลำลอง เสื้อสเวตเตอร์ชมพู ให้บรรยากาศสตรีตแฟชั่น (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 9,
+          "name": "แฟชั่นยีนส์ลำลอง (SFW)",
+          "url": "https://image.nima3.com/backdrops/30vY9B1S6FR6.jpg",
+          "alt": "Sumire Mizukawa – Street Style",
+          "description": "ลุคสตรีตแฟชั่นบนพื้นริมกำแพงกราฟฟิตี โฟกัสที่ท่าทางผ่อนคลายและใบหน้า (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 10,
+          "name": "ภาพอีเวนต์บูธงานรถยนต์ (SFW)",
+          "url": "https://pds.exblog.jp/pds/1/201911/04/85/c0215885_12294337.jpg",
+          "alt": "Sumire Mizukawa – Event Booth Shot",
+          "description": "ภาพในงานอีเวนต์ สวมชุดกลิตเตอร์แบบทางการ โพสมั่นใจ เน้นบรรยากาศงาน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 11,
+          "name": "ภาพพอร์ตเทรตโทนอุ่นระยะกลาง (SFW)",
+          "url": "https://pbs.twimg.com/media/G2Ujo0qbgAABkdn.jpg",
+          "alt": "Sumire Mizukawa – Set A 11",
+          "description": "ภาพระยะครึ่งตัวในโทนแสงอุ่น โฟกัสใบหน้าชัดเจน ให้ลุคสุภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 12,
+          "name": "ภาพโปรโมทกองถ่าย – โทนจริงจัง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/fstu00020/fstu00020jp-2.jpg",
+          "alt": "Sumire Mizukawa – Set B 12",
+          "description": "ภาพโปรโมทจากกองถ่าย โฟกัสใบหน้าและท่าทางจริงจัง (ปรับคำอธิบายให้อยู่ในเกณฑ์ SFW)",
+          "sfw": true
+        },
+        {
+          "id": 13,
+          "name": "ภาพโปรโมท – ใบหน้าชัดเจน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/pxvr00337/pxvr00337jp-4.jpg",
+          "alt": "Sumire Mizukawa – Set C 13",
+          "description": "ภาพเน้นมุมใบหน้าชัดเจน ใช้เป็นภาพประกอบโปรไฟล์ได้ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 14,
+          "name": "ภาพโปรโมทแนวแฟชั่นเรียบง่าย (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/pxvr00337/pxvr00337jp-6.jpg",
+          "alt": "Sumire Mizukawa – Set C 14",
+          "description": "โทนภาพสุภาพ เน้นบุคลิกและการจัดแสงที่ชัดเจน (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 15,
+          "name": "ภาพพอร์ตเทรตนอกสถานที่ (SFW)",
+          "url": "https://pbs.twimg.com/media/G4TuweUakAAO7Jr.jpg",
+          "alt": "Sumire Mizukawa – Set D 15",
+          "description": "ภาพถ่ายกลางแจ้ง โฟกัสใบหน้า ท่าทางเป็นธรรมชาติ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 16,
+          "name": "ภาพโปรโมทกองถ่าย – ใบหน้าคมชัด (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/juq00916/juq00916jp-5.jpg",
+          "alt": "Sumire Mizukawa – Set E 16",
+          "description": "ภาพโปรโมทจัดไฟชัดเจน เน้นใบหน้าและโทนจริงจัง (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 17,
+          "name": "ภาพโปรโมทสตูดิโอ – โทนสุภาพ (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/umso00561/umso00561jp-6.jpg",
+          "alt": "Sumire Mizukawa – Set F 17",
+          "description": "ภาพสตูดิโอที่จัดท่าทางสุภาพ เห็นใบหน้าชัด (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 18,
+          "name": "ภาพโปรโมท – มุมระยะกลาง (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/juq00781/juq00781jp-9.jpg",
+          "alt": "Sumire Mizukawa – Set G 18",
+          "description": "ภาพระยะกลางจากกองถ่าย โฟกัสที่ท่าทางมั่นใจ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 19,
+          "name": "ภาพโปรโมท – โทนแสงจัดจ้าน (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/juq00765/juq00765jp-7.jpg",
+          "alt": "Sumire Mizukawa – Set H 19",
+          "description": "ภาพบุคลิกชัดเจน เน้นใบหน้าและอารมณ์ในภาพ (SFW)",
+          "sfw": true
+        },
+        {
+          "id": 20,
+          "name": "ภาพโปรโมท – โทนเข้ม (SFW)",
+          "url": "https://pics.dmm.co.jp/digital/video/gvh00765/gvh00765jp-8.jpg",
+          "alt": "Sumire Mizukawa – Set I 20",
+          "description": "ภาพโปรโมทจัดแสงโทนเข้ม โฟกัสใบหน้าและท่าทางนิ่ง สุภาพ (SFW)",
+          "sfw": true
+        }
+      ]
+    }
+  ]
+}
